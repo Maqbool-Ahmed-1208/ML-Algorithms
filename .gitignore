@@ -1,1 +1,85 @@
-*maqbool
+# =========================
+# Python Runtime
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+.conda/
+.venv*/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_convert/
+profile_default/
+ipython_config.py
+
+# Logs & Runtime
+*.log
+*.out
+*.err
+*.pid
+*.gz
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
+*.cache/
+.cache/
+*.dat
+*.sqlite3
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# Build & Packaging
+build/
+dist/
+*.manifest
+*.spec
+*.lock
+Pipfile.lock
+poetry.lock
+
+# Coverage / Testing
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+.nox/
+.pytest_cache/
+*.cover
+*.py,cover
+coverage.xml
+
+# Local storage (runtime dbs or app state)
+local_storage/
+db.sqlite3
+*.db
+*.rdb
+*.mdb
+*.sql
+*.dump
+
+
