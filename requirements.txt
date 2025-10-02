@@ -3,6 +3,8 @@ pipreqs
 
 # EDA
 pandas
-
+numpy
 # ML
 scikit-learn
+
+
